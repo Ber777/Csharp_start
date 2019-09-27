@@ -1,0 +1,18 @@
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\bin\Debug\HW.exe.config
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\obj\Debug\HW.Properties.Resources.resources
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\obj\Debug\HW.csproj.GenerateResource.Cache
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\obj\Debug\HW.Form1.resources
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\bin\Debug\HW.exe
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\bin\Debug\HW.pdb
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\obj\Debug\HW.exe
+c:\users\uivan_000\documents\visual studio 2012\Projects\HW\HW\obj\Debug\HW.pdb
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\bin\Debug\HW.exe.config
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\obj\Debug\HW.exe
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\obj\Debug\HW.pdb
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\bin\Debug\HW.exe
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\bin\Debug\HW.pdb
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\obj\Debug\HW.Form1.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\obj\Debug\HW.Properties.Resources.resources
+C:\Users\uivan_000\Documents\Visual Studio 2012\Projects\Лабы ИУ5\3 семестр\HW\HW\obj\Debug\HW.csproj.GenerateResource.Cache
